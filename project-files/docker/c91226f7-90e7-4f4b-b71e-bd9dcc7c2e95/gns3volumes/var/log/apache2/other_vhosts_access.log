@@ -1,0 +1,3 @@
+intranet.securecorp.com:80 192.168.0.253 - - [21/Aug/2021:13:04:26 +1000] "GET / HTTP/1.0" 200 453 "-" "Lynx/2.9.0dev.5 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/3.6.13"
+intranet.securecorp.com:80 192.168.0.253 - - [21/Aug/2021:13:05:14 +1000] "GET / HTTP/1.0" 200 453 "-" "Lynx/2.9.0dev.5 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/3.6.13"
+intranet.securecorp.com:80 192.168.0.1 - - [21/Aug/2021:17:43:45 +1000] "GET / HTTP/1.0" 200 453 "-" "Lynx/2.9.0dev.5 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/3.6.13"

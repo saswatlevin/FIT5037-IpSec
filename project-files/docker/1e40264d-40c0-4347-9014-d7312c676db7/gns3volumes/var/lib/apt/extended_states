@@ -1,0 +1,44 @@
+Package: lynx-common
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libbsd0
+Architecture: amd64
+Auto-Installed: 1
+
+Package: mime-support
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libmagic1
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libmagic-mgc
+Architecture: amd64
+Auto-Installed: 1
+
+Package: xz-utils
+Architecture: amd64
+Auto-Installed: 1
+
+Package: file
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libidn11
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libpam-cap
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libcap2
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libcap2-bin
+Architecture: amd64
+Auto-Installed: 1
+

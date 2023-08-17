@@ -1,0 +1,12 @@
+Aug 17 04:37:13.711 HYPERVISOR: Release 0.2.22-amd64/Linux (tag 2022052400)
+Aug 17 04:37:13.711 HYPERVISOR: Started on IP = localhost, TCP port = 45999.
+Aug 17 04:37:13.726 HYPERVISOR: exec_cmd: hypervisor version 
+Aug 17 04:37:13.728 HYPERVISOR: exec_cmd: hypervisor working_dir /home/netadmin/GNS3/projects/IPSec/project-files/dynamips 
+Aug 17 04:37:13.728 GENERAL: working_dir=/home/netadmin/GNS3/projects/IPSec/project-files/dynamips
+Aug 17 04:37:13.730 HYPERVISOR: exec_cmd: ethsw create SYD-L2-SW 
+Aug 17 04:37:18.564 HYPERVISOR: exec_cmd: nio create_udp udp-00ed21e4-aba4-429c-9eb0-59cdf0e77758 10003 127.0.0.1 10002 
+Aug 17 04:37:18.564 HYPERVISOR: exec_cmd: ethsw add_nio SYD-L2-SW udp-00ed21e4-aba4-429c-9eb0-59cdf0e77758 
+Aug 17 04:37:18.567 HYPERVISOR: exec_cmd: ethsw set_access_port SYD-L2-SW udp-00ed21e4-aba4-429c-9eb0-59cdf0e77758 1 
+Aug 17 04:37:18.606 HYPERVISOR: exec_cmd: nio create_udp udp-3306efe4-83ac-4890-bf91-7690b09eb739 10006 127.0.0.1 10007 
+Aug 17 04:37:18.606 HYPERVISOR: exec_cmd: ethsw add_nio SYD-L2-SW udp-3306efe4-83ac-4890-bf91-7690b09eb739 
+Aug 17 04:37:18.608 HYPERVISOR: exec_cmd: ethsw set_access_port SYD-L2-SW udp-3306efe4-83ac-4890-bf91-7690b09eb739 1 

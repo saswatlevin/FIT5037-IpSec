@@ -1,0 +1,8 @@
+644:1000:1000:/root/.gns3_perms
+644:1000:1000:/root/.bashrc
+644:1000:1000:/root/.profile
+700:1000:1000:/root/.local/share/nano
+700:1000:1000:/root/.local/share
+755:1000:1000:/root/.local
+600:1000:1000:/root/.bash_history
+700:1000:1000:/root

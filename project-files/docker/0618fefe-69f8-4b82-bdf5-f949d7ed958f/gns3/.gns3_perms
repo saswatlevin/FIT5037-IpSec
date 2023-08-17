@@ -1,0 +1,9 @@
+644:0:0:/gns3/.gns3_perms
+755:0:0:/gns3/init.sh
+755:0:0:/gns3/bin/busybox
+755:0:0:/gns3/bin
+755:0:0:/gns3/run-cmd.sh
+755:0:0:/gns3/etc/udhcpc/default.script
+755:0:0:/gns3/etc/udhcpc
+755:0:0:/gns3/etc
+755:0:0:/gns3

@@ -1,0 +1,15 @@
+Aug 17 04:37:13.697 HYPERVISOR: Release 0.2.22-amd64/Linux (tag 2022052400)
+Aug 17 04:37:13.697 HYPERVISOR: Started on IP = localhost, TCP port = 56901.
+Aug 17 04:37:13.703 HYPERVISOR: exec_cmd: hypervisor version 
+Aug 17 04:37:13.703 HYPERVISOR: exec_cmd: hypervisor working_dir /home/netadmin/GNS3/projects/IPSec/project-files/dynamips 
+Aug 17 04:37:13.703 GENERAL: working_dir=/home/netadmin/GNS3/projects/IPSec/project-files/dynamips
+Aug 17 04:37:13.703 HYPERVISOR: exec_cmd: ethsw create MEL-L2-SW 
+Aug 17 04:37:18.537 HYPERVISOR: exec_cmd: nio create_udp udp-91ec69aa-eabd-4e84-94eb-4b3a2e5f5263 10001 127.0.0.1 10000 
+Aug 17 04:37:18.537 HYPERVISOR: exec_cmd: ethsw add_nio MEL-L2-SW udp-91ec69aa-eabd-4e84-94eb-4b3a2e5f5263 
+Aug 17 04:37:18.547 HYPERVISOR: exec_cmd: ethsw set_access_port MEL-L2-SW udp-91ec69aa-eabd-4e84-94eb-4b3a2e5f5263 1 
+Aug 17 04:37:18.580 HYPERVISOR: exec_cmd: nio create_udp udp-4e2fc475-b304-41e4-863a-ecfffdd55fa3 10004 127.0.0.1 10005 
+Aug 17 04:37:18.581 HYPERVISOR: exec_cmd: ethsw add_nio MEL-L2-SW udp-4e2fc475-b304-41e4-863a-ecfffdd55fa3 
+Aug 17 04:37:18.589 HYPERVISOR: exec_cmd: ethsw set_access_port MEL-L2-SW udp-4e2fc475-b304-41e4-863a-ecfffdd55fa3 1 
+Aug 17 04:37:18.716 HYPERVISOR: exec_cmd: nio create_udp udp-2f72bcb0-78f8-4598-a8f0-619ce3f2ba93 10014 127.0.0.1 10015 
+Aug 17 04:37:18.716 HYPERVISOR: exec_cmd: ethsw add_nio MEL-L2-SW udp-2f72bcb0-78f8-4598-a8f0-619ce3f2ba93 
+Aug 17 04:37:18.739 HYPERVISOR: exec_cmd: ethsw set_access_port MEL-L2-SW udp-2f72bcb0-78f8-4598-a8f0-619ce3f2ba93 1 
